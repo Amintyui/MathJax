@@ -1,0 +1,9 @@
+<html>
+<head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+</head>
+<body>
+    <h1>محاسبات توان</h1>
+    <p>\(\alpha = 2^{\sqrt{2}}, \beta = \sqrt{2}, \alpha^\beta = 4\)</p>
+</body>
+</html>
